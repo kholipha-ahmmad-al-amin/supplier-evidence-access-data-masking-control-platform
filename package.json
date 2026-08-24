@@ -1,0 +1,1 @@
+{"name":"supplier-evidence-access-data-masking-control-platform","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"vitest run"},"dependencies":{"express":"5.1.0"},"devDependencies":{"vitest":"3.2.4"}}
